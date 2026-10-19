@@ -1,4 +1,5 @@
 # Tent Cataloguer for Linux
+![Tent Cataloguer for Linux](screenshot.png)
 
 Offline catalog of external and local disks: browse folder structure, sizes
 and files without the disk connected. Python 3 + PyQt6 + SQLite.
