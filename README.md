@@ -10,7 +10,7 @@ and files without the disk connected. Python 3 + PyQt6 + SQLite.
 
 Close and reopen the terminal, then:
 
-    pipx install git+https://github.com/YOUR_USER/tent-cataloguer.git
+    pipx install git+https://github.com/DannyDi2/tent-cataloguer.git
 
 ## Run
 
